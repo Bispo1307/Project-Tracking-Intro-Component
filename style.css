@@ -339,8 +339,8 @@ main {
 
 @media (min-width: 360px) and (max-width: 500px) {
   body {
+    width: 100vw;
     padding: 10%;
-    overflow: visible;
     overflow-x: hidden;
   }
 
